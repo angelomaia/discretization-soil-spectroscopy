@@ -20,7 +20,7 @@
 
 ### 2.1 Data Acquisition
 
-The dataset used in this study was obtained from the [Open Soil Spectral Library (OSSL)](https://explorer.soilspectroscopy.org/), containing over 20,000 samples from the Kellogg Soil Survey Laboratory (KSSL) of the Natural Resources Conservation Service of the United States Department of Agriculture (USDA). Details about the dataset and laboratory procedures can be found in the Kellogg Soil Survey Laboratory methods manual. The dataset includes MIR spectra (600 – 4000 cm⁻¹) and elemental concentrations for heavy metals. The dataset was filtered for samples with consistent data, resulting in 1,165 samples.
+The dataset used in this study was obtained from the [Open Soil Spectral Library (OSSL)](https://explorer.soilspectroscopy.org/). It includes MIR spectra (600 – 4000 cm⁻¹) and elemental concentrations for heavy metals.
 
 ---
 
